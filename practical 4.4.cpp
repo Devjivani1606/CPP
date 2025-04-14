@@ -1,8 +1,4 @@
-/* Programmer : Varun Kalotra
-   Date : 11 April, 2025
-   Aim : To simulate a banking system using OOP, supporting account types, transactions, and history management
-*/
-
+//This program is prepared by 24ce043_Dev
 #include <iostream>
 #include <stack>  // Used to maintain transaction history (for undo feature)
 using namespace std;
@@ -288,7 +284,7 @@ int main()
         cout << "Invalid account type entered." << endl;
     }
 
-    cout << "\nVarun Kalotra : 24CE048" << endl;
+    cout << "\n24CE043_Dev\n";
     return 0;
 }
 
