@@ -1,3 +1,4 @@
+//This program is prepared by 24ce043_Dev
 #include <iostream>
 #include <vector>
 
@@ -41,6 +42,7 @@ int main() {
     for (int i = 0; i < n; i++) {
         cout << "Result " << i + 1 << ": " << resultArr[i] << endl;
     }
+    cout<<"\n24CE043_Dev\n";
 
     return 0;
 }
