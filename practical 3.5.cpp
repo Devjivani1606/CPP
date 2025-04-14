@@ -1,3 +1,4 @@
+//This program is prepared by 24ce043_Dev
 #include <iostream>
 
 using namespace std;
@@ -34,6 +35,7 @@ int main() {
 
     long long result = superDigit(initialSum * k);
     cout << "Super Digit: " << result << endl;
+    cout<<"\n24CE043_Dev\n";
 
     return 0;
 }
