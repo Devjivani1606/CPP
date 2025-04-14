@@ -1,3 +1,4 @@
+//This program is prepared by 24ce043_Dev
 #include <iostream>
 #include <vector>
 #include <string>
@@ -74,6 +75,7 @@ int main() {
     for (size_t i = 0; i < students.size(); ++i) {
         delete students[i];
     }
+    cout<<"\n24CE043_Dev\n";
 
     return 0;
 }
