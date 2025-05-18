@@ -1,3 +1,5 @@
+//This program is prepared by 24ce043_Dev
+
 #include <iostream>
 #include <vector>
 #include <memory>  // For smart pointers
@@ -68,6 +70,7 @@ int main() {
     for (Shape* shape : shapes) {
         delete shape;
     }
+    cout<<"/n24CE043_Dev/n";
     shapes.clear();
 
     return 0;
